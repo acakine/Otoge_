@@ -1,4 +1,0 @@
-repository "Otoge_/Otoge_@14568850971282@cloud"
-  path "/"
-    br "/main"
-    co "/main"
